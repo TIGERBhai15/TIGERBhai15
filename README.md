@@ -1,8 +1,6 @@
 ![logo](https://camo.githubusercontent.com/d6ebdf0be8c981a367c8226b0c0554db04a3235f4018c75ad1951fd67be61cc4/68747470733a2f2f6a75736d61726b746563682e636f6d2f7075626c69632f612f696d616765732f70616765732f7765625f646576656c6f706d656e742e676966)
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<h1 align="center">Hi 👋, I'm Aishwarya Gupta</h1>
+<h1 align="center">Hi 👋, I'm Aishwarya Gupta<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture></h1>
 <h3 align="center">A frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tigerbhai15&label=Profile%20views&color=0e75b6&style=flat" alt="tigerbhai15" /> </p>
